@@ -1,0 +1,12 @@
+C:\Users\matab\Desktop\nejakaslozka\testGut\MMXXIII\KostičkaGame\bin\Debug\KostičkaGame.exe.config
+C:\Users\matab\Desktop\nejakaslozka\testGut\MMXXIII\KostičkaGame\bin\Debug\KostičkaGame.exe
+C:\Users\matab\Desktop\nejakaslozka\testGut\MMXXIII\KostičkaGame\bin\Debug\KostičkaGame.pdb
+C:\Users\matab\Desktop\nejakaslozka\testGut\MMXXIII\KostičkaGame\obj\Debug\KostičkaGame.csproj.AssemblyReference.cache
+C:\Users\matab\Desktop\nejakaslozka\testGut\MMXXIII\KostičkaGame\obj\Debug\KostičkaGame.Properties.Resources.resources
+C:\Users\matab\Desktop\nejakaslozka\testGut\MMXXIII\KostičkaGame\obj\Debug\KostičkaGame.csproj.GenerateResource.cache
+C:\Users\matab\Desktop\nejakaslozka\testGut\MMXXIII\KostičkaGame\obj\Debug\KostičkaGame.csproj.CoreCompileInputs.cache
+C:\Users\matab\Desktop\nejakaslozka\testGut\MMXXIII\KostičkaGame\obj\Debug\KostičkaGame.exe
+C:\Users\matab\Desktop\nejakaslozka\testGut\MMXXIII\KostičkaGame\obj\Debug\KostičkaGame.pdb
+C:\Users\matab\Desktop\nejakaslozka\testGut\MMXXIII\KostičkaGame\obj\Debug\KostičkaGame.Form1.resources
+C:\Users\matab\Desktop\nejakaslozka\testGut\MMXXIII\KostičkaGame\obj\Debug\KostičkaGame.LoginForm.resources
+C:\Users\matab\Desktop\nejakaslozka\testGut\MMXXIII\KostičkaGame\obj\Debug\KostičkaGame.GameForm.resources
