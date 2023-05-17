@@ -37,7 +37,7 @@ namespace KostičkaGame {
             this.textBox1.Location = new System.Drawing.Point(37, 67);
             this.textBox1.Name = "textBox1";
             this.textBox1.ShortcutsEnabled = false;
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
+            this.textBox1.Size = new System.Drawing.Size(158, 20);
             this.textBox1.TabIndex = 0;
             // 
             // label1

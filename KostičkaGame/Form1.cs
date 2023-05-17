@@ -14,13 +14,13 @@ namespace KostičkaGame {
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e) {
+        void button2_Click(object sender, EventArgs e) {
             Application.Exit();
         }
 
-        private void NewGameButtonClick(object sender, EventArgs e) {
+        void NewGameButtonClick(object sender, EventArgs e) {
             LoginForm lf = new LoginForm();
-            this.Hide();
+            Hide();
             lf.Show();
         }
     }

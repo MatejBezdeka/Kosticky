@@ -7,9 +7,17 @@ namespace KostičkaGame {
             InitializeComponent();
         }
 
-        private void LogInButton_Click(object sender, EventArgs e) {
+        void LogInButton_Click(object sender, EventArgs e) {
+            //kontroluje jestli jméno není jen mezera
+            string user = textBox1.Text.Replace(" ", String.Empty);
+            if (user == "") {
+                textBox1.Text = "";
+                return;
+            }
+            
             Hide();
             GameManager.manager.start();
+            GameManager.manager.setUser(user);
         }
     }
 }
